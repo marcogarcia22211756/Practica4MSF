@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Marco Antonio Garcia Montilla[22211756]; l22211756@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: modelo matemático, EDOS, Regeneración, Globulos rojos, sistema de ecuaciones.
 
 ## Lista de archivos incluidos en el repositorio
 
